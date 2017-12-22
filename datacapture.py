@@ -7,6 +7,8 @@ import matplotlib.pyplot as plt
 import matplotlib.cbook as cbook
 
 
+
+
 out1 = os.popen("pwd ").read()
 print out1
 
